@@ -1,6 +1,6 @@
 package findTheUnionOfTwoArray;
 
-import java.util.LinkedHashSet;
+
 import java.util.TreeSet;
 
 public class ThirdQuetionForUnionOfTwoArray {
