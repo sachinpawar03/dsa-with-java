@@ -1,6 +1,6 @@
 package findSubarrayOfGivenSum;
 
-public class SecondQuetionFindSubarrayOfGivenSum {
+public class SecondQuestionFindSubarrayOfGivenSum {
 
 	public static void main(String[] args) {
 		int arr[] = { 1, 3, 5, 4, 0, 7 };
